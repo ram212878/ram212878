@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Babu Kumar</h1>
 <h3 align="center">A passionate Software Engineeer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram212878" alt="ram212878" /></a> </p>
 
 - 🌱 I’m currently learning **UX/UI**
 
