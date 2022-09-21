@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineeer from India</h3>
 
 
-- 🌱 I’m currently learning **UX/UI**
+- 🌱 I’m currently Freelancing **Flutter Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ram212878](https://github.com/ram212878)
 
